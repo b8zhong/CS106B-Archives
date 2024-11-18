@@ -1,5 +1,7 @@
 # README
 
+![Project Banner](image.png)
+
 ## Project: Extract Versioned Lecture URLs
 
 This Python script extracts lecture-specific URLs from the schedule page of Stanford's CS106B course and formats them to match a versioned base URL structure. The processed URLs are saved to a text file for further use.
